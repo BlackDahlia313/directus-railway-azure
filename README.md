@@ -17,20 +17,20 @@ This example deploys a self-hosted version of [Directus](https://directus.io).
 
 Internally it uses a PostgreSQL database to store the data and S3 to store files.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/_dszdt?referralCode=codedgeekery)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/QpL4rC)
 
 ## ✨ Features
 
 - Directus
 - Postgres
-- S3
+- Azure
 - Slugs (via inclusion of [https://github.com/dimitrov-adrian/directus-extension-wpslug-interface](https://github.com/dimitrov-adrian/directus-extension-wpslug-interface))
 
 ## 💁‍♀️ How to use
 
 - Click the Railway button 👆
 - Add the environment variables
-  - If you do not add the S3 related environment variables, your images/files will not be persisted between deploys.
+  - If you do not add the Azure related environment variables, your images/files will not be persisted between deploys.
 
 ## 📝 Notes
 
