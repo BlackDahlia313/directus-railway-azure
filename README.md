@@ -1,7 +1,7 @@
 ---
 title: Directus
-description: Directus 9. An Instant App & API for your SQL Database.
-buttonSource: https://railway.app/new/template/_dszdt?referralCode=codedgeekery
+description: Directus 10. An Instant App & API for your PG Database.
+buttonSource: https://railway.app/template/QpL4rC?referralCode=nnevrP
 tags:
   - directus
   - cms
@@ -17,13 +17,14 @@ This example deploys a self-hosted version of [Directus](https://directus.io).
 
 Internally it uses a PostgreSQL database to store the data and S3 to store files.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/QpL4rC)
+[![Deploy on Railway](https://railway.app/button.svg)]([https://railway.app/template/QpL4rC](https://railway.app/template/QpL4rC?referralCode=nnevrP))
 
 ## ✨ Features
 
 - Directus
 - Postgres
 - Azure
+- Redis
 - Slugs (via inclusion of [https://github.com/dimitrov-adrian/directus-extension-wpslug-interface](https://github.com/dimitrov-adrian/directus-extension-wpslug-interface))
 
 ## 💁‍♀️ How to use
